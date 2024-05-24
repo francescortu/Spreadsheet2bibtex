@@ -16,8 +16,8 @@ Simple python tool too manage a bibliography using Google Spreadsheets. You can 
 - create a .env file with the following env variable:
 ```bash
 SPREADSHEET_ID="" # retrieve from the url
-INPUT_RANGE="Main!D2:D100"  # cell with the title of the form [1234.56789] Your amazing ArxIv paper
-OUTPUT_RANGE="Main!K2:K100" # cell where you want the bibtex
+INPUT_RANGE="Main!D2:D100"  # Celss with titles/links in the format "[1234.56789] Your amazing ArxIv paper"
+OUTPUT_RANGE="Main!K2:K100" # Cells where you want to write the corresponding BibTex
 ```
 
 ## Installation
