@@ -1,7 +1,7 @@
 # Spreadsheet2bibtex
 Simple python tool too manage a bibliography using Google Spreadsheets. You can retrieve bibtex from the title of the paper and add the bibtex to another column. You then can exporte the bibtex column in .bib file
   <p align="center">
-    <img src="./images/title2bibtex.jpeg" width="400">
+    <img src="./images/title2bibtex.jpeg" width="900">
 </p>
 
 
