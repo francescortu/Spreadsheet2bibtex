@@ -1,4 +1,5 @@
 .lprof/
 .venv/
-.credentials/credentials.json
-.credentials/token.json
+credentials/credentials.json
+credentials/token.json
+.env
