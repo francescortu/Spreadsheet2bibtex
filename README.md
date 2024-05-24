@@ -34,7 +34,7 @@ To add to the spreadsheet the bibtex at column `OUTPUT_RANGE` just do:
 python spreadsheets2bibtex.py
 ```
 
-If you want to output the content of colum `OUTPUT_RANGE` to a `output.bib`:
+If you want to output the content of column `OUTPUT_RANGE` to an `output.bib`:
 ```bash
 python spreadsheets2bibtex.py --bib
 ```
@@ -42,4 +42,7 @@ python spreadsheets2bibtex.py --bib
 
 ## TODO
 
-- [] Automatically substitute the Venue citations to the ArXiv one if exists
+- [] Automatically substitute the Venue citations to the ArXiv one if exist
+- [] Make installable from pip install
+- [] Create a command line interface to set up the id and the input and output columns (save in ~/.config/spreedsheet2bibtex.conf)
+- [] Expose to entire systems the program
